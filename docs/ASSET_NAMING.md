@@ -58,7 +58,7 @@ Names below are relative to each project's `materials/<project>/photos/` or `vid
 | mr-haptic-actuator | thermal-stability.png | mr-actuator-thermal-stability.webp | Sustained-operation result |
 | mr-haptic-actuator | biomechanical-reference-validation.png | mr-actuator-biomechanical-reference-validation.webp | Model-derived reference validation |
 | mr-haptic-actuator | Hardware-in-the-loop Demo.mp4 | mr-actuator-drug-infusion-hardware-in-loop-demo.mp4 | Opening system demo / matching `-poster.webp`; original retained in `materials-local/` |
-| mr-haptic-actuator | demo.pdf | mr-actuator-system-communication.webp | HIL system communication diagram beside the opening video |
+| mr-haptic-actuator | demo.png (latest; earlier demo.pdf retained) | mr-actuator-system-communication.webp | HIL system communication diagram beside the opening video |
 | shared/portrait | 11f30395fa797f076cb84b4df9a67c26.jpg | dong-qiang-imperial-campus.webp | Journey / Imperial MEng stage |
 | shared/portrait | codex-clipboard-8566835b-a302-4f48-921d-5c0f96506ef8.jpg | dong-qiang-outdoor-portrait.webp | Home portrait |
 
